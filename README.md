@@ -21,10 +21,10 @@ Sentinel EA is a **basic automated trading strategy** for **gold (XAU/USD)** on 
 
 ## Screenshots
 ![Settings](https://github.com/azmxlh/Sentinel-EA-MT5/blob/main/screenshots/Backtest.png)  
-![Inputs](https://github.com/azmxlh/Sentinel-EA-MT5/blob/main/screenshots/inputs.png)  
-![Backtest](https://github.com/azmxlh/Sentinel-EA-MT5/blob/main/screenshots/backtest.png)  
-![Graph](https://github.com/azmxlh/Sentinel-EA-MT5/blob/main/screenshots/graph.png)  
-![Optimization](https://github.com/azmxlh/Sentinel-EA-MT5/blob/main/screenshots/optimization.png)
+![Inputs](https://github.com/azmxlh/Sentinel-EA-MT5/blob/main/screenshots/Inputs.png)  
+![Backtest](https://github.com/azmxlh/Sentinel-EA-MT5/blob/main/screenshots/Backtest.png)  
+![Graph](https://github.com/azmxlh/Sentinel-EA-MT5/blob/main/screenshots/Graph.png)  
+![Optimization](https://github.com/azmxlh/Sentinel-EA-MT5/blob/main/screenshots/Optimization.png)
 
 ## Setup & Usage
 1. Copy `Sentinel.mq5` into your **MetaTrader 5 / Experts** folder  
